@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://shravan:<pwd>@merncluster-afql4.mongodb.net/test?retryWrites=true",
+  "mongoURILOCAL": "mongodb://localhost/MERNSTACK"
+}
