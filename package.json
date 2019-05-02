@@ -1,0 +1,19 @@
+{
+  "name": "mern_stack_2.0",
+  "version": "1.0.0",
+  "description": "social network application for developer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shravanz/MERN_STACK_2.0.git"
+  },
+  "author": "shravan zolgikar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shravanz/MERN_STACK_2.0/issues"
+  },
+  "homepage": "https://github.com/shravanz/MERN_STACK_2.0#readme"
+}
