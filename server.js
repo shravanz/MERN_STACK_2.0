@@ -6,6 +6,8 @@ const app = express();
 //Connect Database
 connectDB();
 
+// Init Middleware
+app.use(express.json({ extended: false })); // false means we cannot post nested object
 app.get("/", (req, res) => {
   res.send("API RUnning");
 });
